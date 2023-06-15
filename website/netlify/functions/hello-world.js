@@ -5,6 +5,6 @@ exports.handler = async () => {
     }
     return {
         statusCode: 200,
-        body: `XYZAAAAAAbc  ${envString}`,
+        body: `fork2:  ${envString}`,
     };
 };
